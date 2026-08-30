@@ -1,20 +1,24 @@
 # Study Notes
 
-This repository is my personal collection of study notes for certifications, technical learning, and day-to-day engineering reference.
+This repository is my personal collection of study notes for certifications, technical learning, and day-to-day engineering work.
 
-It covers the topics I work with most as an SRE and DevOps engineer, including AWS, Kubernetes, CNCF ecosystem tools, cloud infrastructure, automation, and operational best practices. Some notes are based on certifications I already earned, while others are for certifications I plan to pursue or revisit in the future.
+For longer-form notes, deeper explanations, and continued study material, visit my study notes blog:
+
+https://www.nabilnoh.com/categories/study-notes/
+
+I work in cloud, DevOps, and SRE, and this repo is where I keep the notes that help me revise, reference, and revisit important concepts. It includes material from certifications I have already completed, as well as topics I am preparing for or reviewing again in the future.
 
 ## What this repo is for
 
-This repo acts as a practical knowledge base for:
+This repo is a practical knowledge base for:
 
-- exam preparation and revision
-- quick reference for important concepts
-- study material for cloud and Kubernetes topics
-- notes from hands-on experience and real-world troubleshooting
-- keeping key technical ideas organized in one place
+- certification prep and revision
+- quick access to important technical concepts
+- cloud and Kubernetes study material
+- troubleshooting notes from real-world work
+- keeping key ideas organized in one place
 
-## Main areas covered
+## Main topics covered
 
 - AWS services and cloud architecture
 - Kubernetes and container orchestration
@@ -29,23 +33,23 @@ This repo acts as a practical knowledge base for:
 
 ## Why I keep these notes
 
-A lot of technical knowledge is easy to understand once, but easy to forget later. This repo helps me keep that knowledge in a format that is easy to review, search, and rebuild from when needed.
+A lot of technical knowledge is easy to understand once, but easy to forget later. This repo helps me keep it in a format that is simple to review, easy to search, and useful when I need to refresh my memory.
 
 It is useful for:
 
-- certification prep
+- exam preparation
 - technical interviews
-- troubleshooting and debugging
+- debugging and troubleshooting
 - learning new tools and platforms
-- reviewing core concepts before practice or production work
+- reviewing core concepts before production work or a new certification path
 
 ## Repository structure
 
-The notes are organized as personal study material and reference notes, with topics grouped by technology and learning area. The goal is to keep each note simple, useful, and easy to revisit.
+The notes are grouped by technology and learning area so they stay easy to browse and simple to revisit. The goal is to keep each note concise, practical, and useful for future reference.
 
 ## Notes and usage
 
-These notes are meant to support learning, not replace official documentation, vendor training, or certification study guides. They are a personal reference set built from experience, research, and continued study.
+These notes are meant to support learning and personal study. They are not a replacement for official documentation, vendor training, or certification study guides, but they are a useful companion for revision and reference.
 
 ## License
 
