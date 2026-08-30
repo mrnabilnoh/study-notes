@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Keep markdown notes
+!*.md
+
+# Keep the gitignore file itself
+!.gitignore
