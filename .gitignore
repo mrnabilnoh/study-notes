@@ -1,6 +1,9 @@
 # Ignore everything by default
 *
 
+# Allow Git to find files inside topic folders.
+!*/
+
 # Keep markdown notes
 !*.md
 

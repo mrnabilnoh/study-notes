@@ -22,14 +22,8 @@ This repo is a practical knowledge base for:
 
 - AWS services and cloud architecture
 - Kubernetes and container orchestration
-- Docker and workload deployment
-- CI/CD and automation workflows
-- Infrastructure as Code
-- Linux and networking fundamentals
-- Observability, monitoring, and logging
-- Security and access management
-- Site Reliability Engineering practices
 - CNCF projects and ecosystem topics
+- DevOps, SRE, and related engineering topics
 
 ## Why I keep these notes
 
@@ -45,7 +39,22 @@ It is useful for:
 
 ## Repository structure
 
-The notes are grouped by technology and learning area so they stay easy to browse and simple to revisit. The goal is to keep each note concise, practical, and useful for future reference.
+Notes are grouped by broad topic so the repository stays easy to browse as it grows.
+
+```text
+study-notes/
+├── README.md
+└── aws/
+	├── ai-practitioner-aif-c01.md
+	└── cloud-practitioner-clf-c02.md
+```
+
+## Notes
+
+- [AWS AI Practitioner (AIF-C01)](aws/ai-practitioner-aif-c01.md)
+- [AWS Cloud Practitioner (CLF-C02)](aws/cloud-practitioner-clf-c02.md)
+
+New topics such as Kubernetes and CNCF can be added as top-level folders when notes are ready.
 
 ## Notes and usage
 
