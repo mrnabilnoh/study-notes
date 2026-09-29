@@ -10,10 +10,12 @@ The notes are for revision, exam preparation, and reference. Topics may include 
 study-notes/
 ├── README.md
 └── aws/
+	├── ai-business-strategist-aib-c01.md
 	├── ai-practitioner-aif-c01.md
 	└── cloud-practitioner-clf-c02.md
 ```
 
+- [AWS AI Business Strategist (AIB-C01)](aws/ai-business-strategist-aib-c01.md)
 - [AWS AI Practitioner (AIF-C01)](aws/ai-practitioner-aif-c01.md)
 - [AWS Cloud Practitioner (CLF-C02)](aws/cloud-practitioner-clf-c02.md)
 
