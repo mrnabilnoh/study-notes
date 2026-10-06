@@ -13,13 +13,15 @@ study-notes/
 	├── ai-business-strategist-aib-c01.md
 	├── ai-practitioner-aif-c01.md
 	├── cloud-practitioner-clf-c02.md
-	└── developer-dva-c02.md
+	├── developer-dva-c02.md
+	└── cloudops-engineer-soa-c03.md
 ```
 
 - [AWS AI Business Strategist (AIB-C01)](aws/ai-business-strategist-aib-c01.md)
 - [AWS AI Practitioner (AIF-C01)](aws/ai-practitioner-aif-c01.md)
 - [AWS Cloud Practitioner (CLF-C02)](aws/cloud-practitioner-clf-c02.md)
 - [AWS Developer - Associate (DVA-C02)](aws/developer-dva-c02.md)
+- [AWS CloudOps Engineer - Associate (SOA-C03)](aws/cloudops-engineer-soa-c03.md)
 
 Longer explanations and related study material are available on my [study notes blog](https://www.nabilnoh.com/categories/study-notes/).
 
