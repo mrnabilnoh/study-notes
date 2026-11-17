@@ -16,7 +16,8 @@ study-notes/
 	├── developer-dva-c02.md
 	├── cloudops-engineer-soa-c03.md
 	├── devops-engineer-dop-c02.md
-	└── solutions-architect-professional-sap-c02.md
+	├── solutions-architect-professional-sap-c02.md
+	└── security-specialty-scs-c03.md
 ```
 
 - [AWS AI Business Strategist (AIB-C01)](aws/ai-business-strategist-aib-c01.md)
@@ -26,6 +27,7 @@ study-notes/
 - [AWS CloudOps Engineer - Associate (SOA-C03)](aws/cloudops-engineer-soa-c03.md)
 - [AWS DevOps Engineer - Professional (DOP-C02)](aws/devops-engineer-dop-c02.md)
 - [AWS Solutions Architect - Professional (SAP-C02)](aws/solutions-architect-professional-sap-c02.md)
+- [AWS Security - Specialty (SCS-C03)](aws/security-specialty-scs-c03.md)
 
 Longer explanations and related study material are available on my [study notes blog](https://www.nabilnoh.com/categories/study-notes/).
 
