@@ -14,6 +14,7 @@ study-notes/
 	├── ai-practitioner-aif-c01.md
 	├── cloud-practitioner-clf-c02.md
 	├── developer-dva-c02.md
+	├── data-engineer-associate-dea-c01.md
 	├── cloudops-engineer-soa-c03.md
 	├── devops-engineer-dop-c02.md
 	├── solutions-architect-professional-sap-c02.md
@@ -24,6 +25,7 @@ study-notes/
 - [AWS AI Practitioner (AIF-C01)](aws/ai-practitioner-aif-c01.md)
 - [AWS Cloud Practitioner (CLF-C02)](aws/cloud-practitioner-clf-c02.md)
 - [AWS Developer - Associate (DVA-C02)](aws/developer-dva-c02.md)
+- [AWS Data Engineer - Associate (DEA-C01)](aws/data-engineer-associate-dea-c01.md)
 - [AWS CloudOps Engineer - Associate (SOA-C03)](aws/cloudops-engineer-soa-c03.md)
 - [AWS DevOps Engineer - Professional (DOP-C02)](aws/devops-engineer-dop-c02.md)
 - [AWS Solutions Architect - Professional (SAP-C02)](aws/solutions-architect-professional-sap-c02.md)
